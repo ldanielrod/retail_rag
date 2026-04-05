@@ -1,1 +1,2 @@
 # retail_rag
+Proyecto que tiene como fin de crear un agente que scrapee las principales páginas web de ventas/alquiler de propiedades y a través de un motor RAG, responda preguntas a las necesidades que busquen los usuarios.
