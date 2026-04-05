@@ -1,0 +1,14 @@
+.env
+README.md
+venv
+__pycache__
+.DS_Store
+.env.example
+.env.example
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+chroma_db/
+.DS_Store
